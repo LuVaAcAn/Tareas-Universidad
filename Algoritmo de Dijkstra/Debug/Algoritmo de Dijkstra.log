@@ -1,0 +1,7 @@
+﻿  Algoritmo de Dijkstra.cpp
+C:\Users\fuego\OneDrive\Escritorio\Luciano\Algoritmo de Dijkstra\Algoritmo de Dijkstra\Dijkstra.h(63,11): warning C4129: 'C': secuencia de escape de carácter no reconocida
+C:\Users\fuego\OneDrive\Escritorio\Luciano\Algoritmo de Dijkstra\Algoritmo de Dijkstra\Algoritmo de Dijkstra.cpp(46,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\fuego\OneDrive\Escritorio\Luciano\Algoritmo de Dijkstra\Algoritmo de Dijkstra\Algoritmo de Dijkstra.cpp(126,23): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\fuego\OneDrive\Escritorio\Luciano\Algoritmo de Dijkstra\Algoritmo de Dijkstra\Algoritmo de Dijkstra.cpp(98): warning C4700: se utilizó la variable local 'opcion_menu' sin inicializar
+  Algoritmo de Dijkstra.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Algoritmo de Dijkstra.vcxproj -> C:\Users\fuego\OneDrive\Escritorio\Luciano\Algoritmo de Dijkstra\Debug\Algoritmo de Dijkstra.exe
